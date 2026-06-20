@@ -58,7 +58,7 @@ Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 
 ## Publication
 
-[**"House Price Prediction Using Machine Learning"**](https://github.com/yelurusreejareddy/house-price-prediction-ml/blob/main/Publication.pdf) - IJRASET, Aug 2021 - Random Forest, Linear Regression
+[**"House Price Prediction Using Machine Learning"**](https://github.com/yelurusreejareddy/house-price-prediction-ml/blob/main/Publication.pdf) - IJRASET, Aug 2021 - Logistic Regression, Linear Regression
 
 ---
 
