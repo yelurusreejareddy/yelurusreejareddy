@@ -33,7 +33,7 @@ Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 `LangChain` `GPT-4o-mini` `ChromaDB` `MiniLM` `Python`
 
 [malicious-prompt-detection](https://github.com/yelurusreejareddy/malicious-prompt-detection) - LLM safety classifier trained on the MPDD dataset. Full EDA, TF-IDF feature engineering, and multiple classifiers with cross-validation.
-`scikit-learn` `TF-IDF` `Naive Bayes` `Python`
+`scikit-learn` `TF-IDF` `LightGBM` `Python`
 
 **Reinforcement Learning**
 
@@ -54,6 +54,11 @@ Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 [fruit-veg-grading](https://github.com/yelurusreejareddy/fruit-veg-grading) - Classical CV pipeline using HSV masking, Shannon entropy, and Sobel edge detection to grade produce freshness without deep learning or GPU.
 `OpenCV` `scikit-learn` `Python`
 
+**NLP**
+
+[nlp-foundations-to-transformers](https://github.com/yelurusreejareddy/nlp-foundations-to-transformers) - NLP progression from text preprocessing and n-gram language models through word vectors, RAG, and transformer fine-tuning for summarization.
+`HuggingFace Transformers` `LangChain` `ChromaDB` `nltk` `Python`
+
 ---
 
 ## Publication
@@ -64,9 +69,9 @@ Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 
 ## Stack
 
-**Languages:** Python, Java, SQL, COBOL, JCL  
-**ML / DL:** PyTorch, TensorFlow, Keras, scikit-learn, GUDHI  
-**Vision:** OpenCV, PyWavelets, SHAP  
-**LLM / NLP:** LangChain, HuggingFace Transformers, ChromaDB, RAG, OpenAI API  
-**RL:** Stable-Baselines3, Gymnasium, PPO, DQN, A2C, RLHF  
+**Languages:** Python, Java, SQL, COBOL, JCL
+**ML / DL:** PyTorch, TensorFlow, Keras, scikit-learn, GUDHI
+**Vision:** OpenCV, PyWavelets, SHAP
+**LLM / NLP:** LangChain, HuggingFace Transformers, ChromaDB, RAG, OpenAI API
+**RL:** Stable-Baselines3, Gymnasium, PPO, DQN, A2C, RLHF
 **Tools:** Git, Jupyter, Unix/Linux, REST APIs
