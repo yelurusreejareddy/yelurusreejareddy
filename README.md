@@ -69,9 +69,9 @@ Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 
 ## Stack
 
-**Languages:** Python, Java, SQL, COBOL, JCL
-**ML / DL:** PyTorch, TensorFlow, Keras, scikit-learn, GUDHI
-**Vision:** OpenCV, PyWavelets, SHAP
-**LLM / NLP:** LangChain, HuggingFace Transformers, ChromaDB, RAG, OpenAI API
-**RL:** Stable-Baselines3, Gymnasium, PPO, DQN, A2C, RLHF
-**Tools:** Git, Jupyter, Unix/Linux, REST APIs
+- **Languages:** Python, Java, SQL, COBOL, JCL
+- **ML / DL:** PyTorch, TensorFlow, Keras, scikit-learn, GUDHI
+- **Vision:** OpenCV, PyWavelets, SHAP
+- **LLM / NLP:** LangChain, HuggingFace Transformers, ChromaDB, RAG, OpenAI API
+- **RL:** Stable-Baselines3, Gymnasium, PPO, DQN, A2C, RLHF
+- **Tools:** Git, Jupyter, Unix/Linux, REST APIs
