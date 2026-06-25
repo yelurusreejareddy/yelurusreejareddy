@@ -11,15 +11,14 @@ When I decide I want to learn something, I learn it completely - I learned to sw
 
 I think about problems compulsively - in code, in conversations, everywhere. I'm a perfectionist about the things that matter, I travel when I can, and I watch crime thrillers when I'm not.
 
-Right now I'm a Research Assistant at DePaul, implementing a Topological Data Analysis algorithm that computes harmonic persistence barcodes to classify 3D shapes. I also build LangChain agents, train RL policies, and work across the full ML stack. Looking for **AI/ML Engineer** roles where the problem space is genuinely open.
+Right now I'm a Research Assistant at DePaul, implementing a Topological Data Analysis algorithm that computes harmonic barcodes - studying their persistence and stability across different inputs. I also build LangChain agents, train RL policies, and work across the full ML stack. Looking for **AI/ML Engineer** roles where the problem space is genuinely open
 
 ---
 
 ## Research
 
-**Harmonic Chain Barcodes for 3D Shape Classification** - DePaul University - Sep 2025-Present
-
-Implementing a matrix-based algorithm that computes harmonic persistence barcodes - chain representatives carrying richer geometric information than standard birth-death pairs. The algorithm applies Gram-Schmidt orthogonalization, real-arithmetic corrections, and generator cycle extraction, then feeds the resulting features into SVM classifiers to distinguish 3D shapes: sphere, torus, cube, cylinder, cone, Mobius strip.
+[**Tracking the Persistence of Harmonic Barcodes**](https://github.com/yelurusreejareddy/harmonic-barcode) - DePaul University - Sep 2025-Present
+Implementing a matrix-based algorithm that computes harmonic barcodes - cycle generators that carry richer geometric information than standard birth-death pairs. The algorithm applies Gram-Schmidt orthogonalization, real-arithmetic corrections, and generator cycle extraction, converts the output to persistence images, and feeds those into SVM classifiers. Running two sets of experiments: one on standard geometric shapes to evaluate topological distinguishability, and one on randomly generated point clouds to test generalization.
 
 Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 
