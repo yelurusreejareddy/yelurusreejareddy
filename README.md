@@ -19,7 +19,7 @@ Right now I'm a Research Assistant at DePaul, implementing harmonic chain barcod
 
 [**Novel Topological Descriptors for Topological Data Analysis - Harmonic Barcodes**](https://github.com/yelurusreejareddy/harmonic-chain-barcode) - DePaul University - Sep 2025-Present
 
-Implementing a matrix-based algorithm that computes harmonic chain barcodes as novel topological descriptors - cycle generators that carry richer geometric information than standard birth-death pairs. The algorithm applies Gram-Schmidt orthogonalization, real-arithmetic corrections, and generator cycle extraction, converts the output to persistence images, and feeds those into SVM classifiers. Running two sets of experiments: one on standard geometric shapes to evaluate topological distinguishability, and one on randomly generated point clouds to test generalization.
+Implementing a matrix-based algorithm that computes harmonic chain barcodes as novel topological descriptors - cycle generators that carry richer geometric information than standard birth-death pairs. The algorithm applies Gram-Schmidt orthogonalization, real-arithmetic corrections, and generator cycle extraction, converts the output to persistence images, and feeds those into **SVM classifiers**. Running two sets of experiments: one on standard geometric shapes to evaluate topological distinguishability, and one on randomly generated point clouds to test generalization.
 
 Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 
