@@ -11,7 +11,7 @@ When I decide I want to learn something, I learn it completely - I learned to sw
 
 I think about problems compulsively - in code, in conversations, everywhere. I'm a perfectionist about the things that matter, I travel when I can, and I watch crime thrillers when I'm not.
 
-Right now I'm a Research Assistant at DePaul, implementing a Topological Data Analysis algorithm that computes harmonic barcodes - studying their persistence and stability across different inputs. I also build LangChain agents, train RL policies, and work across the full ML stack. Looking for **AI/ML Engineer** roles where the problem space is genuinely open
+Right now I'm a Research Assistant at DePaul, implementing harmonic chain barcodes as novel topological descriptors for TDA - studying their persistence and stability across different inputs. I also build LangChain agents, train RL policies, and work across the full ML stack. Looking for **AI/ML Engineer** roles where the problem space is genuinely open.
 
 ---
 
