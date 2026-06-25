@@ -18,6 +18,7 @@ Right now I'm a Research Assistant at DePaul, implementing a Topological Data An
 ## Research
 
 [**Tracking the Persistence of Harmonic Barcodes**](https://github.com/yelurusreejareddy/harmonic-barcode) - DePaul University - Sep 2025-Present
+
 Implementing a matrix-based algorithm that computes harmonic barcodes - cycle generators that carry richer geometric information than standard birth-death pairs. The algorithm applies Gram-Schmidt orthogonalization, real-arithmetic corrections, and generator cycle extraction, converts the output to persistence images, and feeds those into SVM classifiers. Running two sets of experiments: one on standard geometric shapes to evaluate topological distinguishability, and one on randomly generated point clouds to test generalization.
 
 Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
