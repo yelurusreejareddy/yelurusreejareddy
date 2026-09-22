@@ -4,6 +4,7 @@ Hi, I'm Sreeja 👋
 
 Research Assistant at DePaul - ex-Accenture - M.S. AI - Chicago, IL
 [LinkedIn](https://linkedin.com/in/sreeja-reddy-yeluru/) - yeluru.sreeja@gmail.com
+[Portfolio](https://sreejareddyyeluru.vercel.app)
 
 ---
 
