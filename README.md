@@ -29,6 +29,9 @@ Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 
 **LLM & Agents**
 
+[wanderwear](https://github.com/yelurusreejareddy/wanderwear) - Live Multi-agent travel planner and personal stylist, built from scratch and deployed on AWS. Plans day-by-day itineraries and assembles outfits from a user's own wardrobe, with per-user row-level security, a background job pipeline for concurrency, and push-to-deploy CI/CD to ECS Fargate. [Live demo](https://main.d1xhj0as3larx1.amplifyapp.com)
+`FastAPI` `Next.js` `Supabase` `AWS` `LangGraph` `Python`
+
 [agentic-rag-cleantech](https://github.com/yelurusreejareddy/agentic-rag-cleantech) - Multi-tool LangChain agent combining ChromaDB vector retrieval, Semantic Scholar paper search, and chain-of-thought reasoning over cleantech content. Base vs Extended agent comparison evaluated on BLEU and ROUGE.
 `LangChain` `GPT-4o-mini` `ChromaDB` `MiniLM` `Python`
 
@@ -69,9 +72,14 @@ Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 
 ## Stack
 
-- **Languages:** Python, Java, SQL, COBOL, JCL
+- **Languages:** Python, JavaScript, Java, SQL, COBOL, JCL
 - **ML / DL:** PyTorch, TensorFlow, Keras, scikit-learn, GUDHI
 - **Vision:** OpenCV, PyWavelets, SHAP
-- **LLM / NLP:** LangChain, HuggingFace Transformers, ChromaDB, RAG, OpenAI API
+- **LLM / Agents:** LangChain, LangGraph, HuggingFace Transformers, ChromaDB, RAG, multi-agent systems, OpenAI / OpenRouter APIs, prompt engineering
 - **RL:** Stable-Baselines3, Gymnasium, PPO, DQN, A2C, RLHF
-- **Tools:** Git, Jupyter, Unix/Linux, REST APIs
+- **Web / Frontend:** Next.js, React, Progressive Web Apps, HTML, CSS
+- **Backend / APIs:** FastAPI, REST APIs, async Python, background job queues
+- **Databases / Auth:** PostgreSQL, Supabase, row-level security, Supabase Auth, SQL migrations
+- **Cloud / DevOps:** AWS (ECS Fargate, ECR, Amplify, API Gateway, Secrets Manager, IAM, CloudWatch), Docker, GitHub Actions CI/CD, OIDC
+- **Testing:** pytest, Vitest
+- **Tools:** Git, Jupyter, Unix/Linux
