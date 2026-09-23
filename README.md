@@ -34,7 +34,8 @@ A live product, built from scratch and deployed end to end. Plans day-by-day iti
 
 <a href="https://main.d1xhj0as3larx1.amplifyapp.com"><img src="https://raw.githubusercontent.com/yelurusreejareddy/wanderwear/main/assets/screenshot.png" alt="WanderWear" width="720"></a>
 
-[Try it live](https://main.d1xhj0as3larx1.amplifyapp.com) - [Project overview](https://github.com/yelurusreejareddy/wanderwear)
+Link to [Try it live](https://main.d1xhj0as3larx1.amplifyapp.com) 
+[Project overview](https://github.com/yelurusreejareddy/wanderwear)
 
 Stack: FastAPI, Next.js, Supabase, AWS, LangGraph, Python
 
@@ -43,9 +44,6 @@ Stack: FastAPI, Next.js, Supabase, AWS, LangGraph, Python
 ## Projects
 
 **LLM & Agents**
-
-[wanderwear](https://github.com/yelurusreejareddy/wanderwear) - A live multi-agent travel planner and personal stylist, built from scratch and deployed on AWS. Plans day-by-day itineraries and assembles outfits from a user's own wardrobe, with per-user row-level security, a background job pipeline for concurrency, and push-to-deploy CI/CD to ECS Fargate. [Live demo](https://main.d1xhj0as3larx1.amplifyapp.com)
-`FastAPI` `Next.js` `Supabase` `AWS` `LangGraph` `Python`
 
 [agentic-rag-cleantech](https://github.com/yelurusreejareddy/agentic-rag-cleantech) - Multi-tool LangChain agent combining ChromaDB vector retrieval, Semantic Scholar paper search, and chain-of-thought reasoning over cleantech content. Base vs Extended agent comparison evaluated on BLEU and ROUGE.
 `LangChain` `GPT-4o-mini` `ChromaDB` `MiniLM` `Python`
