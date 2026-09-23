@@ -46,7 +46,7 @@ Stack: FastAPI, Next.js, Supabase, AWS, LangGraph, Python
 
 **LLM & Agents**
 
-[agentic-rag-cleantech](https://github.com/yelurusreejareddy/agentic-rag-cleantech) - Multi-tool LangChain agent combining ChromaDB vector retrieval, Semantic Scholar paper search, and chain-of-thought reasoning over cleantech content. Base vs Extended agent comparison evaluated on BLEU and ROUGE.
+[agentic-rag-cleantech](https://github.com/yelurusreejareddy/agentic-rag-cleantech) - Multi-tool LangChain agent combining ChromaDB vector retrieval, Semantic Scholar paper search, and chain-of-thought reasoning over cleantech content. Base vs Extended agent comparison evaluated on ROUGE-L and BERTScore.
 `LangChain` `GPT-4o-mini` `ChromaDB` `MiniLM` `Python`
 
 [malicious-prompt-detection](https://github.com/yelurusreejareddy/malicious-prompt-detection) - LLM safety classifier trained on the MPDD dataset. Full EDA, TF-IDF feature engineering, and multiple classifiers with cross-validation.
@@ -62,8 +62,8 @@ Stack: FastAPI, Next.js, Supabase, AWS, LangGraph, Python
 
 **Deep Learning & Vision**
 
-[energy-load-forecast-cnn-lstm](https://github.com/yelurusreejareddy/energy-load-forecast-cnn-lstm) - Hourly electricity demand prediction for Illinois (ComEd) using a CNN-LSTM hybrid trained on merged weather and load data, with SHAP interpretability.
-`PyTorch` `CNN-LSTM` `SHAP` `Python`
+[energy-load-forecast-cnn-lstm](https://github.com/yelurusreejareddy/energy-load-forecast-cnn-lstm) - Hourly electricity demand prediction for Illinois (ComEd) using a CNN-LSTM hybrid trained on merged weather and load data, reaching 1.4% MAPE against LSTM and RNN baselines.
+`PyTorch` `CNN-LSTM` `Time Series` `Python`
 
 [diabetic-retinopathy-detection](https://github.com/yelurusreejareddy/diabetic-retinopathy-detection) - Fundus image classification using SVM and Random Forest with wavelet texture features, SMOTE oversampling, and PCA on the diaretdb0 dataset.
 `OpenCV` `PyWavelets` `SVM` `scikit-learn` `Python`
@@ -88,7 +88,7 @@ Stack: FastAPI, Next.js, Supabase, AWS, LangGraph, Python
 
 - **Languages:** Python, JavaScript, Java, SQL, COBOL, JCL
 - **ML / DL:** PyTorch, TensorFlow, Keras, scikit-learn, GUDHI
-- **Vision:** OpenCV, PyWavelets, SHAP
+- **Vision:** OpenCV, PyWavelets
 - **LLM / Agents:** LangChain, LangGraph, HuggingFace Transformers, ChromaDB, RAG, multi-agent systems, OpenAI / OpenRouter APIs, prompt engineering
 - **RL:** Stable-Baselines3, Gymnasium, PPO, DQN, A2C, RLHF
 - **Web / Frontend:** Next.js, React, Progressive Web Apps, HTML, CSS
