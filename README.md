@@ -26,6 +26,20 @@ Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 
 ---
 
+## Featured Product
+
+[**WanderWear - Multi-Agent Travel Planner and Personal Stylist**](https://main.d1xhj0as3larx1.amplifyapp.com) - Live on AWS
+
+A live product, built from scratch and deployed end to end. Plans day-by-day itineraries and assembles outfits from a user's own wardrobe, with per-user row-level security, a background job pipeline for concurrency, and push-to-deploy CI/CD to ECS Fargate.
+
+<a href="https://main.d1xhj0as3larx1.amplifyapp.com"><img src="https://raw.githubusercontent.com/yelurusreejareddy/wanderwear/main/assets/screenshot.png" alt="WanderWear" width="720"></a>
+
+[Try it live](https://main.d1xhj0as3larx1.amplifyapp.com) - [Project overview](https://github.com/yelurusreejareddy/wanderwear)
+
+Stack: FastAPI, Next.js, Supabase, AWS, LangGraph, Python
+
+---
+
 ## Projects
 
 **LLM & Agents**
