@@ -18,7 +18,7 @@ Right now I'm a Research Assistant at DePaul, working on harmonic persistence ba
 
 ## Research
 
-[**Novel Topological Descriptors for Topological Data Analysis - Harmonic Barcodes**](https://github.com/yelurusreejareddy/harmonic-chain-barcode) - DePaul University - Sep 2025-Present
+[**Novel Topological Descriptors for Topological Data Analysis - Harmonic Persistence Barcodes**](https://github.com/yelurusreejareddy/harmonic-chain-barcode) - DePaul University - Sep 2025-Present
 
 Implementing a matrix-based algorithm that computes harmonic persistence barcodes as novel topological descriptors, built from harmonic chain representatives that carry richer geometric information than standard birth-death pairs. The algorithm applies Gram-Schmidt orthogonalization, real-arithmetic corrections, and generator cycle extraction, converts the output to persistence images, and feeds those into **SVM classifiers**. Now running experiments that compare harmonic persistence barcodes against traditional persistence barcodes on two sets of data: standard geometric shapes to evaluate topological distinguishability, and randomly generated point clouds to test generalization.
 
