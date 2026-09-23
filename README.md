@@ -12,7 +12,7 @@ When I decide I want to learn something, I learn it completely - I learned to sw
 
 I think about problems compulsively - in code, in conversations, everywhere. I'm a perfectionist about the things that matter, I travel when I can, and I watch crime thrillers when I'm not.
 
-Right now I'm a Research Assistant at DePaul, implementing harmonic chain barcodes as novel topological descriptors for TDA - studying their persistence and stability across different inputs. I also build LangChain agents, train RL policies, and work across the full ML stack. Looking for **AI/ML Engineer** roles where the problem space is genuinely open.
+Right now I'm a Research Assistant at DePaul, working on harmonic persistence barcodes as novel topological descriptors for TDA and running experiments that compare them against traditional persistence barcodes. Outside research, I build AI products end to end, most recently WanderWear, a multi-agent travel planner and stylist that's live on AWS. I'm looking for my next role in AI and machine learning.
 
 ---
 
@@ -20,7 +20,7 @@ Right now I'm a Research Assistant at DePaul, implementing harmonic chain barcod
 
 [**Novel Topological Descriptors for Topological Data Analysis - Harmonic Barcodes**](https://github.com/yelurusreejareddy/harmonic-chain-barcode) - DePaul University - Sep 2025-Present
 
-Implementing a matrix-based algorithm that computes harmonic chain barcodes as novel topological descriptors - cycle generators that carry richer geometric information than standard birth-death pairs. The algorithm applies Gram-Schmidt orthogonalization, real-arithmetic corrections, and generator cycle extraction, converts the output to persistence images, and feeds those into **SVM classifiers**. Running two sets of experiments: one on standard geometric shapes to evaluate topological distinguishability, and one on randomly generated point clouds to test generalization.
+Implementing a matrix-based algorithm that computes harmonic persistence barcodes as novel topological descriptors, built from harmonic chain representatives that carry richer geometric information than standard birth-death pairs. The algorithm applies Gram-Schmidt orthogonalization, real-arithmetic corrections, and generator cycle extraction, converts the output to persistence images, and feeds those into **SVM classifiers**. Now running experiments that compare harmonic persistence barcodes against traditional persistence barcodes on two sets of data: standard geometric shapes to evaluate topological distinguishability, and randomly generated point clouds to test generalization.
 
 Stack: Python, GUDHI, NumPy, SciPy, scikit-learn
 
