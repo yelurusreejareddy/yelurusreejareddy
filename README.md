@@ -34,7 +34,7 @@ A live product, built from scratch and deployed end to end. Plans day-by-day iti
 
 <a href="https://main.d1xhj0as3larx1.amplifyapp.com"><img src="https://raw.githubusercontent.com/yelurusreejareddy/wanderwear/main/assets/screenshot.png" alt="WanderWear" width="720"></a>
 
-Link to [Try it live](https://main.d1xhj0as3larx1.amplifyapp.com)
+Link to [try it live](https://main.d1xhj0as3larx1.amplifyapp.com)
 
 [Project overview](https://github.com/yelurusreejareddy/wanderwear)
 
