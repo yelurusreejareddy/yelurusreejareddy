@@ -8,7 +8,7 @@ Research Assistant at DePaul - ex-Accenture - M.S. AI - Chicago, IL.
 
 ---
 
-When I decide I want to learn something, I learn it completely - I learned to swim in two days. That same drive took me from three years at Accenture to a 4.0 GPA and a Presidential Scholarship in DePaul's M.S. AI program.
+When I decide I want to learn something, I learn it completely - I learned to swim in two days. That same drive took me from three years at Accenture to pursuing M.S. AI program in DePaul University.
 
 I think about problems compulsively - in code, in conversations, everywhere. I'm a perfectionist about the things that matter, I travel when I can, and I watch crime thrillers when I'm not.
 
